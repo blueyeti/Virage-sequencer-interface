@@ -1,0 +1,9 @@
+The Virage Sequencer software run under Mac OS X 10.4 10.5 and 10.6.
+
+It is a Virage Sequencer Graphical User Interface developed in C++ using Juce API.
+
+You can compile this code using Xcode for example but first you have to add the following libraries to your project :
+
+	- 'Iscore', library for interactive scores edition and execution, the engine of the Virage Sequencer GUI,
+			 http://github.com/raphaelmarczak/libIscore/
+	- Juce (Jules' Utility Class Extensions), UK, http://www.rawmaterialsoftware.com/juce.php

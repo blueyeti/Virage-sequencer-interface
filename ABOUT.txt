@@ -1,0 +1,39 @@
+This software is the Virage Sequencer, An intermedia interactive sequencer for inter-media behaviours and interactions scripting, in stage or installations contexts.
+Virage Sequencer is part from the Virage Platform, funded by the French National Agency for Research, which aims to survey creative needs and practices through experimentation, within the fields of the performing and interactive arts .
+
+Virage Platform is a partnership between: BEK, Blue Yeti, CICM, CopperLan, didascalie.net, ENSATT, GMEA and GMEM - Centres Nationaux de Creation Musicale d'Albi-Tarn et de Marseille, iMAL, ISTS, LaBRI, LIMSI, RSF, Stantum.
+More information on www.plateforme-virage.org
+
+Virage Sequencer hand-crafted in Bordeaux, France, by Henry Bernard, Laurent Garnier and Luc Vercellin (Blue Yeti). Copyright (c) 2008-2009 Blue Yeti, All rights reserved. Tree map explorer hand-crafted in Paris by Laurent Garnier (LIMSI).
+
+Included library:
+- 'iScore', library for interactive scores edition and execution, developped by Raphael Marczak, Antoine Allombert, Bruno Valeze and Myriam Desainte-Catherine), (LaBRI), France, code source on http://github.com/raphaelmarczak/libIscore/
+- Juce (Jules' Utility Class Extensions), UK, http://www.rawmaterialsoftware.com/juce.php
+ 
+
+This software is governed by the CeCILL license under French law and
+abiding by the rules of distribution of free software.  You can  use, 
+modify and/ or redistribute the software under the terms of the CeCILL
+license as circulated by CEA, CNRS and INRIA at the following URL
+"http://www.cecill.info". 
+
+As a counterpart to the access to the source code and  rights to copy,
+modify and redistribute granted by the license, users are provided only
+with a limited warranty  and the software's author,  the holder of the
+economic rights,  and the successive licensors  have only  limited
+liability. 
+
+In this respect, the user's attention is drawn to the risks associated
+with loading,  using,  modifying and/or developing or reproducing the
+software by the user in light of its specific status of free software,
+that may mean  that it is complicated to manipulate,  and  that  also
+therefore means  that it is reserved for developers  and  experienced
+professionals having in-depth computer knowledge. Users are therefore
+encouraged to load and test the software's suitability as regards their
+requirements in conditions enabling the security of their systems and/or 
+data to be ensured and,  more generally, to use and operate it in the 
+same conditions as regards security.
+
+The fact that you are presently reading this means that you have had
+knowledge of the CeCILL license and that you accept its terms.
+
